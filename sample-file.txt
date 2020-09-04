@@ -1,1 +1,2 @@
 First commit test.
+This is just for fun. :)
